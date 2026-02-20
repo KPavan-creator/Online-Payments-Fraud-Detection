@@ -1,9 +1,9 @@
 ## Team ID- LTVIP2026TMIDS84701
-### Project - Online Payments Fraud Detection using ML
+## Project - Online Payments Fraud Detection using ML
 ### Team Members 1 : M Chaithanya (23BFA05L28)
-Team Members 2 : Pavan Sai Varma Konduru (23BFA05L17)
-Team Members 3 : V Vinay Karthik Reddy	(22BFA05450)
-Team Members 4 : Vundrakonda Satyanarayanacharyulu   (22BFA05452)
+### Team Members 2 : Pavan Sai Varma Konduru (23BFA05L17)
+### Team Members 3 : V Vinay Karthik Reddy (22BFA05450)
+### Team Members 4 : Vundrakonda Satyanarayanacharyulu (22BFA05452)
 
 
 # 🛡️ Online Payments Fraud Detection using Machine Learning
